@@ -45,8 +45,8 @@ body{
     transition: .5s;
 }
 
-
-
-
+.accordian .content-container.active .answer{
+    height: 150px;
+}
 
 
